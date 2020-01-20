@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.wrapper {
+    padding-top: 5rem;
+    margin: 0 auto;
+    width: 900px;
+}
+
+.card-footer .page-item.active .page-link {
+    z-index: 0;
+}
+
+.edit-modal-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.edit-modal-form .modal-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.edit-modal-form .modal-row > *:first-child {
+    width: 38%;
+    margin-top: 2%;
+}
+
+.edit-modal-form .Dropdown-root {
+    width: 179px;
+    height: 35px;
+    margin-top: 2%;
+}
+
+.edit-modal-form .Dropdown-root .Dropdown-control {
+    height: 100%;
+}
+
+.tabs {
+    display: flex;
+    display: -webkit-flex;
+    border-bottom: 1px solid #bbbbbb;
+}
+
+.tab-content {
+    width: 150px;
+    height: 340px;
+}
+
+/*container*/
+/*className="tabs"*/
+.tabs-header {
+    border: 1px solid transparent;
+    color: #fff;
+    background-color: #007BFF;
+    padding: .10rem 10px;
+    border-radius: .25rem;
+    border-bottom-width: 0;
+    margin: 0 .1rem 0 1rem;
+    align-content: center;
+    cursor: pointer;
+}
+
+.tabs-header.active {
+    background-color: #0ab4ff;
+}
+
+.content {
+    border: 1px solid;
+    clear: both;
+}
+
+.centr {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+h1 {
+    margin: 0;
+    padding: 0 0 10px 0;
+}
+
+.input-form {
+    border: 2px solid #dee2e6;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.input-form > .inputs-wrapper {
+    display: flex;
+}
+
+.input-form > .inputs-wrapper > .input-wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-form .field {
+    margin-right: 20px;
+}
+
+.custom-pagination .pagination {
+    justify-content: center;
+}
+
+.text-overlap {
+    text-overflow: ellipsis;
+    max-width: 200px;
+    overflow: hidden;
+}
+
+/*.input {*/
+/*  padding-left:2cm;*/
+/*}*/
+/*.input2 {*/
+/*  padding-right:2cm;*/
+/*}*/
+/* input {*/
+/*   margin-top: 10px;*/
+/* }*/
