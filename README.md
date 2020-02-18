@@ -22,3 +22,10 @@ Default address
 for Frontend: http://localhost:3000/
 
 for Backend: http://localhost:2000/api/items
+
+
+Screenshots: 
+
+![alt tag](http://i.piccy.info/i9/0047148e9cd41c4279de910b9c58f854/1582027112/122223/1363141/screenshot_1267.jpg)
+![alt tag](http://i.piccy.info/i9/88a5cf983bfc02dfea576c5ed689b473/1582027143/98542/1363141/screenshot_1268.jpg)
+![alt tag](http://i.piccy.info/i9/5791d1c7f39310e3d5f0bfa19e46ffc4/1582027178/56336/1363141/screenshot_1269.jpg)
